@@ -9,4 +9,4 @@ Collection of useful JavaScript libraries
 [Crumble](https://github.com/tommoor/crumble)
 
 ## Pickers
-[jQuery Timepicker]("http://jonthornton.github.io/jquery-timepicker/")<br>
+[jQuery Timepicker](http://jonthornton.github.io/jquery-timepicker/)<br>
